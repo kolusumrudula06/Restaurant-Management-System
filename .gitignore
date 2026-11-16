@@ -24,3 +24,11 @@ dist-ssr
 *.sw?
 .env.local
 .env
+
+# Maven & Java build artifacts
+target/
+*.class
+.mvn/
+.classpath
+.project
+.settings/
